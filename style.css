@@ -23,9 +23,11 @@ body {
 
 .logo {
   width: 500px;
+  max-width: 90%;
   margin: 0 auto 30px;
   display: block;
 }
+
 
 .buttons {
   display: flex;
