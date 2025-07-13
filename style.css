@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
-  background-color: #f9f5e3;
+  background-color: #370796;
   color: #1e6636;
   display: flex;
   justify-content: center;
@@ -11,8 +11,8 @@ body {
 }
 
 .wrapper {
-  background-color: #f9f5e3;
-  border: 4px solid #1e6636;
+  background-color: #fefbe3;
+  border: 4px solid #4de510;
   border-radius: 16px;
   width: 95%;
   max-width: 1000px;
@@ -22,7 +22,7 @@ body {
 }
 
 .logo {
-  width: 180px;
+  width: 500px;
   margin: 0 auto 30px;
   display: block;
 }
@@ -39,7 +39,7 @@ body {
 }
 
 .button img {
-  width: 100%;
+  width: 50%;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   transition: transform 0.2s ease;
